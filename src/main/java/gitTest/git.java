@@ -10,5 +10,6 @@ public class git {
         System.out.println("hello github");
         System.out.println("hello gitee");
         System.out.println("hello hot-fix");
+        System.out.println("hello main conflict");
     }
 }
